@@ -1,0 +1,5 @@
+{
+  "sourcesPath": "example-contract.sol",
+  "defaultGas": 4.7e6,
+  "web3ConnectionString": "ws://localhost:8546"
+}
