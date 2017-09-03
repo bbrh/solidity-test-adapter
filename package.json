@@ -1,5 +1,5 @@
 {
-  "name": "solidity-mocha-adapter",
+  "name": "solidity-test-adapter",
   "version": "1.0.0",
   "description": "test automation for solidity smart contracts",
   "main": "app.js",
